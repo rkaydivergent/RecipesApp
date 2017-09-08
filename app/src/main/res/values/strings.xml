@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+    <string name="recipes">Recipes</string>
+    <string-array name="title_names">
+        <item>Chocolate Mousse Cake</item>
+        <item>Mexican Lasagna</item>
+        <item>Classic Chicken Parmesan</item>
+        <item>Raspberry Buttermilk Pie</item>
+        <item>Simple Chicken Soup</item>
+        <item>Spaghetti and Meatballs</item>
+
+    </string-array>
+    <string-array name="descriptions">
+        <item> Complete your holidays with a rich triple chocolate layered mousse cake</item>
+        <item>This Cheesy Mexican Lasagna brings together all your favorite Tex-Mex flavors in a whole new way.</item>
+        <item>Add another classic to your repertoire with our version of chicken Parmesan, if you are into the whole brevity thing</item>
+        <item>A simple pie with a delicious homemade pie crust. </item>
+        <item>A quick, delicious and yummy sweet corn soup</item>
+        <item>Spaghetti and Meatballs is outstanding!  There is a lot of flavor packed in this recipe.  </item>
+    </string-array>
+    <string-array name="detailed_description">
+        <item>Cat is a pet</item>
+        <item>Dog is a pet</item>
+        <item>Lion is wild</item>
+        <item>Step 1
+Preheat oven to 325° F. Whisk together buttermilk, sugar, butter, flour, egg yolks, vanilla extract, and salt.\n
+Step 2\n
+Pour the mixture into the piecrust and bake until the center is set but still slightly wobbly, 40 to 50 minutes. Let cool, then chill until firm, 4 to 5 hours.</item>
+        \nStep 3
+        \nTop with raspberry jam and toasted sliced almonds before serving.
+        <item>Snake is wild</item>
+        <item>Wolf is wild</item>
+    </string-array>
+</resources>
